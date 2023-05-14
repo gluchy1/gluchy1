@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Michal!
 
-<!--
-**gluchy1/gluchy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python. Currently interested in MOJOlang development!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: Python, Java
+- Machine Learning: TensorFlow, Keras, scikit-learn
+- Data Analysis: Pandas, NumPy, Matplotlib, Jupyter
+- Physics Simulation: Pygame, Pymunk
+- Version Control: Git, GitHub
+
+---
+
+## Projects
+
+### Basic Subatomic Particles Simulation
+
+A Python project developed using Pygame and Pymunk libraries. It aims to simulate the behavior of basic subatomic particles, focusing on modeling their interactions and movements. The simulation provides the ability to modify gravitational and electrostatic constants, and I have implemented physics principles like the Boltzmann distribution to create a more realistic output.
+
+---
+
+## Contact Me
+
+- Email: slonowskimichal@gmail.com
+- LinkedIn: [Michal Slonowski](https://www.linkedin.com/in/michalslonowski/)
