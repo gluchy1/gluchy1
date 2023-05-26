@@ -10,6 +10,7 @@ Currently interested in MOJOlang development!
 - Data Science
 - SQL, databeses
 - MS Azure
+- Kubernetes, Docker
 
 ---
 
