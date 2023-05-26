@@ -1,6 +1,15 @@
 # Hi, I'm Michal!
 
-I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python. Currently interested in MOJOlang development!
+I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python.
+Currently interested in MOJOlang development!
+
+---
+
+## Currently learning:
+- Django, Flask
+- Data Science
+- SQL, databeses
+- MS Azure
 
 ---
 
@@ -11,6 +20,7 @@ I'm a Computer Science student at PJATK, passionate about AI research and implem
 - Data Analysis: Pandas, NumPy, Matplotlib, Jupyter
 - Physics Simulation: Pygame, Pymunk
 - Version Control: Git, GitHub
+- Documentation: Sphinx
 
 ---
 
