@@ -33,6 +33,13 @@ A Python project developed using Pygame and Pymunk libraries. It aims to simulat
 
 ---
 
+## Future projects ideas
+
+### CV Resume requirements AI helper
+Keras, SQL, Data Scraping, Requests
+
+---
+
 ## Contact Me
 
 - Email: slonowskimichal@gmail.com
