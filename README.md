@@ -31,6 +31,9 @@ Currently interested in MOJOlang development!
 
 A Python project developed using Pygame and Pymunk libraries. It aims to simulate the behavior of basic subatomic particles, focusing on modeling their interactions and movements. The simulation provides the ability to modify gravitational and electrostatic constants, and I have implemented physics principles like the Boltzmann distribution to create a more realistic output.
 
+### Pracuj.pl Job Offer scraping tool
+Simple Job Offer Scraping tool basing on polish job offer site "pracuj.pl" using libraries like: Selenium, Pandas and Spacy. Written in Python 3.10
+
 ---
 
 ## Future projects ideas
