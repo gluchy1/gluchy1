@@ -1,5 +1,9 @@
 # Hi, I'm Michal!
 
+### Databases, Automation, AI and ML, Science, Azure
+
+---
+
 I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python.
 Currently interested in MOJOlang development!
 
