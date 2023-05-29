@@ -38,6 +38,8 @@ A Python project developed using Pygame and Pymunk libraries. It aims to simulat
 ### Pracuj.pl Job Offer scraping tool
 Simple Job Offer Scraping tool basing on polish job offer site "pracuj.pl" using libraries like: Selenium, Pandas and Spacy. Written in Python 3.10
 
+### Visualisation of A-Star Algorithm on a gird
+
 ---
 
 ## Future projects ideas
