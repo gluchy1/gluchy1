@@ -9,12 +9,12 @@
 
 ---
 
-I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python.
+![data-science (2)](https://github.com/gluchy1/gluchy1/assets/70800019/350d1e27-ec66-4324-a321-b5bc52c0d1b2) I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python.
 Currently interested in MOJOlang development!
 
 ---
 
-## Currently learning:
+## ![book](https://github.com/gluchy1/gluchy1/assets/70800019/726bb3c5-1802-44e4-99d5-7c7704ca5f0c) Currently learning:
 - Django, Flask
 - Data Science
 - SQL, databeses
@@ -23,7 +23,7 @@ Currently interested in MOJOlang development!
 
 ---
 
-## Skills
+## ![competence](https://github.com/gluchy1/gluchy1/assets/70800019/a5301243-b00d-4baa-9447-4eb81e084a65) Skills
 
 - Programming Languages: Python, Java
 - Machine Learning: TensorFlow, Keras, scikit-learn
@@ -34,7 +34,7 @@ Currently interested in MOJOlang development!
 
 ---
 
-## Projects
+## ![folder-management](https://github.com/gluchy1/gluchy1/assets/70800019/6963ee70-9c94-4694-a25c-23d728601b36) Projects
 
 ### Basic Subatomic Particles Simulation
 
@@ -60,7 +60,7 @@ Keras, SQL, Data Scraping, Requests
 
 ---
 
-## Contact Me
+## ![phone](https://github.com/gluchy1/gluchy1/assets/70800019/b97f75d1-93e3-46d1-a8fb-488912f7789c) Contact Me
 
 - Email: slonowskimichal@gmail.com
 - LinkedIn: [Michal Slonowski](https://www.linkedin.com/in/michalslonowski/)
