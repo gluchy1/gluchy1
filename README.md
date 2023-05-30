@@ -32,10 +32,15 @@ Currently interested in MOJOlang development!
 - Physics Simulation: Pygame, Pymunk
 - Version Control: Git, GitHub
 - Documentation: Sphinx
+- IDE: Pycharm, IntelliJ
+- Linux Distro: Ubuntu, Manjaro (Arch)
+- UI/UX: Adobe Illustrator, Photoshop, Lightroom, CorelDraw(2021.5)
+- MS Office365 Automation (Power Automate, Power Apps) & Administrating (Endpoint, Azure, Admin)
+- VBA
 
 ---
 
-## ![folder-management](https://github.com/gluchy1/gluchy1/assets/70800019/6963ee70-9c94-4694-a25c-23d728601b36) Projects
+## ![folder-management](https://github.com/gluchy1/gluchy1/assets/70800019/6963ee70-9c94-4694-a25c-23d728601b36) Projects (written in Python)
 
 ### Basic Subatomic Particles Simulation
 
