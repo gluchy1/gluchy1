@@ -62,8 +62,8 @@ Creating a real life working example, making a Study around working case, making
 ### CV Resume requirements AI helper
 Keras, SQL, Data Scraping, Requests
 
-### Simple autorization system
-Sending an email with autorization code for things such as access to: DataBase/Server/RemoteControll.
+### Simple authorization system
+Sending an email with authorization code for things such as access to: DataBase/Server/RemoteControll.
 
 ---
 
