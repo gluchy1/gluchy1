@@ -1,10 +1,5 @@
 # Hi, I'm Michal!
 
-![python (1)](https://github.com/gluchy1/gluchy1/assets/70800019/2244e384-f183-4824-ad23-c49b49a747b0) ![java (1)](https://github.com/gluchy1/gluchy1/assets/70800019/29c2b56b-437c-4d98-b9c7-3409a65e50e3) ![artificial-intelligence (1)](https://github.com/gluchy1/gluchy1/assets/70800019/5b6d4fb8-c721-469e-aae4-a0358427a9c1)
-
-
-
-## Proficient in:
 ### Databases and Data Science ![data-science (1)](https://github.com/gluchy1/gluchy1/assets/70800019/4fb05ede-dc3c-49db-ae92-21a8087aa5c3), Automation ![automation](https://github.com/gluchy1/gluchy1/assets/70800019/e6c92672-e444-4f88-bf72-f31c464169bf) , AI and ML ![coding](https://github.com/gluchy1/gluchy1/assets/70800019/7d3500a8-1514-4761-b588-0b8d5ccaec87), Science ![science](https://github.com/gluchy1/gluchy1/assets/70800019/c40da5b8-527e-43af-9eac-988a82c78da8), Azure ![azure](https://github.com/gluchy1/gluchy1/assets/70800019/e8d15aab-af8a-45d7-a010-8c98e02a9405)
 
 ---
