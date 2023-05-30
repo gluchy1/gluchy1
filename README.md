@@ -57,9 +57,7 @@ Simple Job Offer Scraping tool basing on polish job offer site "pracuj.pl" using
 
 ### Aerotunnel Simulation Project
 #### Implementing physics into code.
-Creating a real life working example
-Create a study
-Create a simulation basing on knowledge got from a model built
+Creating a real life working example, making a Study around working case, making a working simulation in python to simulate the working AeroTunnel basing on gained knowledge from a built model.
 
 ### CV Resume requirements AI helper
 Keras, SQL, Data Scraping, Requests
