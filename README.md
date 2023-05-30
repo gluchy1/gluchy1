@@ -36,7 +36,7 @@ Currently interested in MOJOlang development!
 - Linux Distro: Ubuntu, Manjaro (Arch)
 - UI/UX: Adobe Illustrator, Photoshop, Lightroom, CorelDraw(2021.5)
 - MS Office365 Automation (Power Automate, Power Apps) & Administrating (Endpoint, Azure, Admin)
-- VBA
+- Microsoft Office: Excel&Word tools: VBA Scripts
 
 ---
 
