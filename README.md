@@ -18,7 +18,7 @@ Currently interested in MOJOlang development!
 ## ![book](https://github.com/gluchy1/gluchy1/assets/70800019/726bb3c5-1802-44e4-99d5-7c7704ca5f0c) Currently learning:
 - Django, Flask
 - Data Science
-- SQL, databeses
+- SQL, databeses: MongoDB, Azure Cosmos DB
 - MS Azure
 - Kubernetes, Docker
 
@@ -63,6 +63,9 @@ Create a simulation basing on knowledge got from a model built
 
 ### CV Resume requirements AI helper
 Keras, SQL, Data Scraping, Requests
+
+### Simple autorization system
+Sending an email with autorization code for things such as access to: DataBase/Server/RemoteControll.
 
 ---
 
