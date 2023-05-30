@@ -9,7 +9,8 @@
 
 ---
 
-![data-science (2)](https://github.com/gluchy1/gluchy1/assets/70800019/350d1e27-ec66-4324-a321-b5bc52c0d1b2) I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python.
+## ![data-science (2)](https://github.com/gluchy1/gluchy1/assets/70800019/350d1e27-ec66-4324-a321-b5bc52c0d1b2) I'm a...
+Computer Science student at PJATK, passionate about AI research and implementing physics into Python.
 Currently interested in MOJOlang development!
 
 ---
