@@ -1,6 +1,8 @@
 # Hi, I'm Michal!
 
-![python](https://github.com/gluchy1/gluchy1/assets/70800019/a4541db3-5148-4dbb-9a04-bc0a049b868a)
+![python](https://github.com/gluchy1/gluchy1/assets/70800019/a4541db3-5148-4dbb-9a04-bc0a049b868a) ![java](https://github.com/gluchy1/gluchy1/assets/70800019/86baf695-5f37-48df-8607-de78692d0002) ![artificial-intelligence](https://github.com/gluchy1/gluchy1/assets/70800019/cd74e326-217d-43ff-9381-0a0248e2b134)
+
+
 
 
 ## Proficient in:
