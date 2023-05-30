@@ -66,6 +66,7 @@ Keras, SQL, Data Scraping, Requests
 - Email: slonowskimichal@gmail.com
 - LinkedIn: [Michal Slonowski](https://www.linkedin.com/in/michalslonowski/)
 
+---
 
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFjODU0NTA0NmYyOWVmOGQ0NzhiYTE4MTk3MDhiYzYxYzc5YzE0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gG9fVWJdN41NeiHhzk/giphy.gif)
 > “I have this hope that there is a better way. Higher-level tools that actually let you see the structure of the software more clearly will be of tremendous value.”
