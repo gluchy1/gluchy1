@@ -1,7 +1,7 @@
 # Hi, I'm Michal!
 
-### Databases, Automation, AI and ML, Science, Azure
-![azure](https://github.com/gluchy1/gluchy1/assets/70800019/e8d15aab-af8a-45d7-a010-8c98e02a9405)
+### Databases, Automation, AI and ML, Science ![science](https://github.com/gluchy1/gluchy1/assets/70800019/c40da5b8-527e-43af-9eac-988a82c78da8)
+, Azure ![azure](https://github.com/gluchy1/gluchy1/assets/70800019/e8d15aab-af8a-45d7-a010-8c98e02a9405)
 
 ---
 
